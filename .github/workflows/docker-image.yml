@@ -29,4 +29,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: goswamirohit/slmcmsdashboard:v51
+          tags: goswamirohit/addigitalsolutions:v1

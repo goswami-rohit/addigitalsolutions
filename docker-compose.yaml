@@ -1,0 +1,7 @@
+services:
+  addigitalsolutions:
+    image: goswamirohit/addigitalsolutions:v1
+    container_name: addigitalsolutions
+    restart: unless-stopped
+    ports:
+      - "8080:80"

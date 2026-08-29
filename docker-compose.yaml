@@ -4,4 +4,4 @@ services:
     container_name: addigitalsolutions
     restart: unless-stopped
     ports:
-      - "6600:80"
+      - "55001:80"
